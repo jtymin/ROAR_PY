@@ -1,6 +1,6 @@
 from roar_py_carla import RoarPyCarlaInstance, RoarPyCarlaVehicle
 import roar_py_interface
-import carla
+import carlacd
 import pytest
 import numpy as np
 from typing import List, Dict, Any, Tuple, Optional
